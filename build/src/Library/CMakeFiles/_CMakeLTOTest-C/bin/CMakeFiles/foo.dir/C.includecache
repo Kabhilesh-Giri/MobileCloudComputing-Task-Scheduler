@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/kabhi/OneDrive/Desktop/MobileCloudComputing-Task-Scheduler/build/src/Library/CMakeFiles/_CMakeLTOTest-C/src/foo.c
+

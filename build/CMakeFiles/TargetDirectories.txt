@@ -1,0 +1,12 @@
+/mnt/c/Users/kabhi/OneDrive/Desktop/MobileCloudComputing-Task-Scheduler/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kabhi/OneDrive/Desktop/MobileCloudComputing-Task-Scheduler/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/kabhi/OneDrive/Desktop/MobileCloudComputing-Task-Scheduler/build/app/CMakeFiles/Executable.dir
+/mnt/c/Users/kabhi/OneDrive/Desktop/MobileCloudComputing-Task-Scheduler/build/app/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kabhi/OneDrive/Desktop/MobileCloudComputing-Task-Scheduler/build/app/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/kabhi/OneDrive/Desktop/MobileCloudComputing-Task-Scheduler/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kabhi/OneDrive/Desktop/MobileCloudComputing-Task-Scheduler/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/kabhi/OneDrive/Desktop/MobileCloudComputing-Task-Scheduler/build/src/Library/CMakeFiles/Library.dir
+/mnt/c/Users/kabhi/OneDrive/Desktop/MobileCloudComputing-Task-Scheduler/build/src/Library/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kabhi/OneDrive/Desktop/MobileCloudComputing-Task-Scheduler/build/src/Library/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/kabhi/OneDrive/Desktop/MobileCloudComputing-Task-Scheduler/build/configured/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kabhi/OneDrive/Desktop/MobileCloudComputing-Task-Scheduler/build/configured/CMakeFiles/rebuild_cache.dir

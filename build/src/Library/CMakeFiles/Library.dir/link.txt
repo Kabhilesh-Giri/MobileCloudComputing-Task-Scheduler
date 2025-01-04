@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLibrary.a CMakeFiles/Library.dir/Task.cpp.o CMakeFiles/Library.dir/Mobile_Cloud_Computing.cpp.o CMakeFiles/Library.dir/Task_Graph.cpp.o CMakeFiles/Library.dir/Scheduler.cpp.o
+/usr/bin/ranlib libLibrary.a

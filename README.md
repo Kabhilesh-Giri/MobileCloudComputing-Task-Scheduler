@@ -29,20 +29,20 @@ Mobile devices often face challenges like limited computing resources and short 
 To get you a copy of the project up and running on your local machine for development and testing purposes, please follow the steps provided.
 
 ### Software Requirements
-CMake 3.21+
-MSVC 2017 (or higher), G++9 (or higher), Clang++9 (or higher)
-Optional: Makefile
+- CMake 3.21+
+- MSVC 2017 (or higher), G++9 (or higher), Clang++9 (or higher)
+- Optional: Makefile
 
 ### Building
-First, clone this repo and do the preliminary work:
-git clone https://github.com/Kabhilesh-Giri/MobileCloudComputing-Task-Scheduler.git
+- First, clone this repo and do the preliminary work:
+- git clone https://github.com/Kabhilesh-Giri/MobileCloudComputing-Task-Scheduler.git
 
--Build the Project
-make prepare
-cd build/app
-./Executable
+[Build the Project]
+- make prepare
+- cd build/app
+- ./Executable
 
-##Actual Output
+## Actual Output
 ![image](https://github.com/user-attachments/assets/7bd7a904-9bd3-4c33-adc6-66fc08e860b8)
 
 ## Contributing

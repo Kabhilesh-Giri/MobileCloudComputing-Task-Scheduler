@@ -8,7 +8,7 @@ An efficient task scheduling framework for mobile cloud computing environments, 
 - The implementation has been rigorously tested against the boundary conditions specified in the algorithm. These conditions ensure that all tasks are scheduled within the constraints of energy and time while meeting the required deadlines.
 
 ### Example: 1st Stage Scheduling of the Kernel Algorithm
-![image](https://github.com/user-attachments/assets/eab7afcd-5577-4fef-9177-4a02224d8436)
+![image](https://github.com/user-attachments/assets/932da080-64b5-40b1-b435-aeba5bcae606)
 
 ### Behavior without `T_max` (Hard Deadline)
 - After removing the `T_max` value, the system demonstrates flexibility by scheduling all tasks to the cloud, optimizing energy savings. This aligns with the expected behavior of the algorithm:

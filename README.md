@@ -35,8 +35,9 @@ Contributions are welcome! Please fork the repository and create a pull request.
 ## Contact
 For any inquiries, please email [kabhilesh20@gmail.com].
 
-##References
-1. https://ieeexplore.ieee.org/document/6973741
+## Reference
+1. [Energy-Efficient Scheduling in MCC](https://ieeexplore.ieee.org/document/6973741)
+
 
 
 

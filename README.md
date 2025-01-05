@@ -25,22 +25,29 @@ This demonstrates that the implementation satisfies the boundary conditions and 
 ## Background
 Mobile devices often face challenges like limited computing resources and short battery life. This project leverages Mobile Cloud Computing (MCC) to offload tasks to the cloud, ensuring performance improvement and energy efficiency.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/MobileCloudComputing-Task-Scheduler.git
-   cd MobileCloudComputing-Task-Scheduler
-   make prepare
+## Getting Started
+To get you a copy of the project up and running on your local machine for development and testing purposes, please follow the steps provided.
 
-   Need to update
+### Software Requirements
+CMake 3.21+
+MSVC 2017 (or higher), G++9 (or higher), Clang++9 (or higher)
+Optional: Makefile
 
-## Usage
-To run the task scheduler, execute the following command:
-./scheduler input_task_graph.txt
-Need to update
+### Building
+First, clone this repo and do the preliminary work:
+git clone https://github.com/Kabhilesh-Giri/MobileCloudComputing-Task-Scheduler.git
+
+-Build the Project
+make prepare
+cd build/app
+./Executable
+
+##Actual Output
+![image](https://github.com/user-attachments/assets/7bd7a904-9bd3-4c33-adc6-66fc08e860b8)
 
 ## Contributing
-Contributions are welcome! Please fork the repository and create a pull request.
+Contributions are welcome!
+Please fork the repository, make your changes, and create a pull request.
 
 ## Contact
 For any inquiries, please email [kabhilesh20@gmail.com].

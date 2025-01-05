@@ -25,12 +25,6 @@ This demonstrates that the implementation satisfies the boundary conditions and 
 ## Background
 Mobile devices often face challenges like limited computing resources and short battery life. This project leverages Mobile Cloud Computing (MCC) to offload tasks to the cloud, ensuring performance improvement and energy efficiency.
 
-## How It Works
-The scheduler minimizes application completion time and energy consumption by:
-- Determining tasks for cloud offloading
-- Mapping tasks to heterogeneous cores
-- Scheduling tasks while maintaining precedence and deadline constraints
-
 ## Installation
 1. Clone the repository:
    ```bash

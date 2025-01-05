@@ -26,7 +26,6 @@ The scheduler minimizes application completion time and energy consumption by:
 
 ## Usage
 To run the task scheduler, execute the following command:
-```bash
 ./scheduler input_task_graph.txt
 Need to update
 
@@ -36,6 +35,8 @@ Contributions are welcome! Please fork the repository and create a pull request.
 ## Contact
 For any inquiries, please email [kabhilesh20@gmail.com].
 
+##References
+1. https://ieeexplore.ieee.org/document/6973741
 
 
 

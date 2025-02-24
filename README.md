@@ -42,6 +42,9 @@ To get you a copy of the project up and running on your local machine for develo
 - cd build/app
 - ./Executable
 
+## Directed Acyclic Graph Input:
+![image](https://github.com/user-attachments/assets/17da9658-e255-43b2-abd7-9014eaeebc22)
+
 ## Actual Output
 ![image](https://github.com/user-attachments/assets/7bd7a904-9bd3-4c33-adc6-66fc08e860b8)
 
